@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Oct 2022 04:54:07 at https://www.cvent.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cvent.com/ -O1 "C:\10Intership\hospitality industry" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:57:33	Error: 	Exit requested by shell or user
+04:57:36	Warning: 	File not added due to mirror cancel: https://www.cvent.com/de/event-marketing-management/online-registrierungssoftware-fur-events
+04:57:38	Warning: 	File not parsed, looks like binary: https://www.cvent.com/themes/custom/themekit/fonts/icomoon/fonts/icomoon.woff?48442214
+04:57:59	Warning: 	Link https://www.cvent.com/en/upcoming-webinars?field_event_type_target_id%5B46%5D=46 not scanned (follow robots meta tag)
+04:58:03	Warning: 	Link https://www.cvent.com/en/request-demo not scanned (follow robots meta tag)
+04:58:04	Warning: 	Link https://www.cvent.com/en/event-marketing-management/virtual-event-platform-archive not scanned (follow robots meta tag)
+04:58:04	Warning: 	Link https://www.cvent.com/en/event-marketing-management/hybrid-event-platform-archived not scanned (follow robots meta tag)
+04:58:05	Warning: 	Link https://www.cvent.com/en/meetthemoment not scanned (follow robots meta tag)
+04:58:10	Warning: 	Link https://www.cvent.com/en/privacy-policy not scanned (follow robots meta tag)
+04:58:13	Warning: 	Link https://www.cvent.com/en/product-terms-of-use not scanned (follow robots meta tag)
+04:58:13	Warning: 	Link https://www.cvent.com/personal-data-requests?ccpa=ca not scanned (follow robots meta tag)
+04:58:13	Error: 	"Not Found" (404) at link https://www.cvent.com/Redirection=false;domain=.cvent.com;path=/ (from assets.adobedtm.com/f7740e1036fc/4cf0f823d8af/launch-625595ac1b15.min.js)
+04:58:13	Error: 	"Not Found" (404) at link https://www.cvent.com/marketing/ (from assets.adobedtm.com/f7740e1036fc/4cf0f823d8af/launch-625595ac1b15.min.js)
+04:58:13	Warning: 	Moved Permanently for https://www.cvent.com/au/
+04:58:13	Warning: 	File has moved from https://www.cvent.com/au/ to https://www.cvent.com/au
+04:58:13	Warning: 	Moved Permanently for https://www.cvent.com/uk/
+04:58:13	Warning: 	File has moved from https://www.cvent.com/uk/ to https://www.cvent.com/uk
+04:58:13	Warning: 	Moved Permanently for https://www.cvent.com/in/
+04:58:13	Warning: 	File has moved from https://www.cvent.com/in/ to https://www.cvent.com/in
+04:58:13	Warning: 	Moved Permanently for https://www.cvent.com/sg/
+04:58:13	Warning: 	File has moved from https://www.cvent.com/sg/ to https://www.cvent.com/sg
+04:58:14	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

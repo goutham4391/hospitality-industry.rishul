@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hello.cvent.com	TRUE	/	FALSE	1999999999	__cf_bm	Fqm.vx8AVAvEa.1F0RUzBUN7t0ehmxApbodIiodyo7o-1665921257-0-AcUJmEUzOim83KYJ7SbBnas82fXnw4Wvgo2pJ5dc2CCjE6zfMPkSHwnTAa/m40zFlq++DPURKrmV153mnhITfk8=
+hello.cvent.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cvent.com	TRUE	/	FALSE	1999999999	CSNSearchSessionId	7a71589f-7bbe-4168-bdc2-a1e21699bbab
+.cvent.com	TRUE	/	FALSE	1999999999	CSNSearchDeviceId	449b6163-b270-4ee2-9ddf-5f8a4f07fa39
+.www.cvent.com	TRUE	/	FALSE	1999999999	SSESS3da1fca3aac9970f7109f1ef4a13874d	j6sSkaNKJQPeFoE57JFSnN5x1KecjqpC0m2r2wvUzcFkdA3T
+
